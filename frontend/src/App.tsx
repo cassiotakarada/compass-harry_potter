@@ -1,10 +1,10 @@
-import HomeScreenEffect from "./components/HomeScreenEffect/HomeScreenEffect"
+import Home from './pages/Home'
 
 function App() {
 
   return (
     <>
-      <HomeScreenEffect />
+      <Home />
     </>
   )
 }
